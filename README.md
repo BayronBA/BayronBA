@@ -35,7 +35,7 @@ Analista Programador con sólida formación técnica y gran pasión por el desar
 
 ## 📫 Contacto
 - GitHub: [@BayronBA](https://github.com/BayronBA)
-- (Puedes agregar LinkedIn, email, etc.)
+- E-mail: b.benavidesahumada@gmail.com
 
 ## 📂 Proyectos
 *Próximamente estaré subiendo mis proyectos académicos y personales*
