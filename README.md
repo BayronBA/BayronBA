@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.pinimg.com/originals/3b/22/69/3b2269e056963860069f6cedd77c258c.gif" height = 300px width = 100%  /></div>
+<div align="center"><img src="https://i.pinimg.com/originals/3b/22/69/3b2269e056963860069f6cedd77c258c.gif" height = 300px width = 80%  /></div>
 
 <h2> Hey there! I'm Bayron Benavides <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
@@ -44,4 +44,4 @@ Curious developer who loves to experiment, learn, and make things work better. A
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
-<div align="center"><img src="https://i.pinimg.com/originals/6a/46/15/6a46153cc8a2a819ea2c787e5ae7252d.gif" height = 300px width = 100%  /></div>
+<div align="center"><img src="https://i.pinimg.com/originals/6a/46/15/6a46153cc8a2a819ea2c787e5ae7252d.gif" height = 300px width = 90%  /></div>
