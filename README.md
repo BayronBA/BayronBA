@@ -20,7 +20,7 @@ Curious developer who loves to experiment, learn, and make things work better. A
   <p align="left">
   <a href="https://www.linkedin.com/in/bayronba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto.b.benavidesahumada@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  />
-    <a href="mailto:b.benavidesahumada@gmail.com">
+    <a href="mailto:b.benavidesahumada@gmail.com" target="blank">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="50" width="50" />
 </a>
   </div>
